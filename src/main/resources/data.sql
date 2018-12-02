@@ -1,0 +1,11 @@
+INSERT INTO authors VALUES(1, 'Name1', 'Surname1');
+INSERT INTO authors VALUES(2, 'Name2', 'Surname2');
+INSERT INTO authors VALUES(3, 'Name3', 'Surname3');
+INSERT INTO authors VALUES(4, 'Name4', 'Surname4');
+INSERT INTO books VALUES(1, '0123456789012', 'Title1');
+INSERT INTO books VALUES(2, '0123456789013', 'Title2');
+INSERT INTO books VALUES(3, '0123456789014', 'Title3');
+INSERT INTO author_book VALUES(1, 1);
+INSERT INTO author_book VALUES(1, 2);
+INSERT INTO author_book VALUES(2, 2);
+INSERT INTO author_book VALUES(3, 3);
